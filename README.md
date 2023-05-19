@@ -1,2 +1,2 @@
 # jhon-hoo-mayos-asmuruf
-Perbaikan uts dasar pemograman
+tugas alogaritma sesi 11
